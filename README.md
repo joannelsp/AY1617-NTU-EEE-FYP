@@ -1,4 +1,4 @@
-# This database contains Matlab and Python program codes for the Final Year Project (FYP) on Sky/Cloud Analysis: Cloud Imaging with Day- and Night-time Images.
+# This repository contains Matlab and Python program codes for the Final Year Project (FYP) on Sky/Cloud Analysis: Cloud Imaging with Day- and Night-time Images.
 
 In the *Day Images* folder, the first step is to familiarize with image analysis by generating the histogram of (unnormalized) images. Secondly, normalization is carried out to obtain accurate results. Next, Otsu thresholding is implemented and the percentage error is calculated.
 
